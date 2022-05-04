@@ -1,0 +1,14 @@
+<resources>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="accept">Accept</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="reply">Reply password</string>
+    <string name="pass_dont_match">" Password don't match or lenght is too short"</string>
+    <string name="no_log">No login</string>
+    <string name="app_name">appname</string>
+    <string name="error_account">This acount doesn\'t exsist</string>
+
+
+</resources>
